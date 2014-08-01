@@ -1004,7 +1004,7 @@ if (typeof Object.create !== 'function') {
 
     responsive: true,
     mobileNavigation: true,
-    mobileNavDefaultText: 'Menu',
+    mobileNavDefaultText: 'Menú',
     mobileUIThreshold: 0,
     hideArrowsWhenMobile: true,
     hideArrowsThreshold: 0,
